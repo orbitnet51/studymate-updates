@@ -1,7 +1,7 @@
 {
   "versionCode": 1,
   "versionName": "2.0",
-  "apkUrl": "https://github.com/orbitnet51/studymate-updates/releases/download/v1.1/StudyMate-1.1.apk",
+  "apkUrl": "https://github.com/orbitnet51/studymate-updates/releases/download/v2.1/StudyMate-2.1.apk",
   "sha256": "PUT_THE_APK_SHA256_HASH_HERE_64_CHARACTERS",
   "notes": "Today's Goals, Past Questions and Read Novels added. Lesson shuffling improved.",
   "required": false
