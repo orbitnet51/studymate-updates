@@ -1,8 +1,0 @@
-{
-  "versionCode": 2,
-  "versionName": "2.1",
-  "apkUrl": "https://github.com/orbitnet51/studymate-updates/releases/download/v2.1/StudyMate-2.1.apk",
-  "sha256": "b891b1f525c138eae265400556b4b3f72fcf36bb90968c4a223fb85ebded86cd",
-  "notes": "Today's Goals now earn XP and can promote you to the next rank, with a celebration when you do. Profile photo can be changed by tapping your picture. Bookmarks can be deleted by long-pressing a result. Reset Study Progress now clears completed lessons and goals. Exam countdown colours updated.",
-  "required": false
-}
