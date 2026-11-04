@@ -1,0 +1,8 @@
+{
+  "versionCode": 3,
+  "versionName": "2.3",
+  "apkUrl": "https://github.com/orbitnet51/studymate-updates/releases/download/v2.3/StudyMate-2.3.apk",
+  "sha256": "92d37c6f00ca5e346156567991b031dd74c204137508fd9caf7e6aa7d254437c",
+  "notes": "Today's Goals now earn XP and can promote you to the next rank, with a celebration when you do. Mrs. Wisdom now gives a daily study tip. Subject icons refreshed. Profile photo can be changed by tapping your picture. Bookmarks can be deleted by long-pressing a result. Reset Study Progress now clears completed lessons and goals.",
+  "required": false
+}
