@@ -1,0 +1,8 @@
+{
+  "versionCode": 5,
+  "versionName": "2.3.2",
+  "apkUrl": "https://github.com/orbitnet51/studymate-updates/releases/download/v2.3.2/StudyMate-2.3.2.apk",
+  "sha256": "e5d2b5169170762b3e7f30384ffd79a5d712905d79b82a80e1e3d5e382236a87",
+  "notes": "Fixes the menu on smaller phones: the drawer now scrolls so every item, including Discord and Settings, can be reached.",
+  "required": false
+}
