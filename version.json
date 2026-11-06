@@ -1,0 +1,8 @@
+{
+  "versionCode": 6,
+  "versionName": "2.3.3",
+  "apkUrl": "https://github.com/orbitnet51/studymate-updates/releases/download/v2.3.3/StudyMate-2.3.3.apk",
+  "sha256": "62341698ac26a7ff77ee059495bf7ba8ee75e4d2bc8d7f23f1ec58301be17c6b",
+  "notes": "Share Studymate now shares the StudyMate website link: https://orbitnet51.github.io/",
+  "required": false
+}
